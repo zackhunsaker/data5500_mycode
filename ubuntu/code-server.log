@@ -1,0 +1,22 @@
+[2025-08-25T17:25:46.390Z] info  code-server 4.103.1 fbaadbcfbc16401327e28bd5df3040261977a540
+[2025-08-25T17:25:46.392Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-08-25T17:25:46.454Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-08-25T17:25:46.455Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-08-25T17:25:46.455Z] info    - Authentication is enabled
+[2025-08-25T17:25:46.455Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-08-25T17:25:46.455Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-08-25T17:25:46.455Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[17:27:30] 
+
+
+
+
+[17:27:30] Extension host agent started.
+[17:27:30] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[17:27:30] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+Failed login attempt {"remoteAddress":"144.39.84.147","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","timestamp":1756142862}
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[17:27:53] [<unknown>][e9fcf991][ManagementConnection] New connection established.
+[17:27:56] [<unknown>][6aed6f95][ExtensionHostConnection] New connection established.
+[17:27:57] [<unknown>][6aed6f95][ExtensionHostConnection] <3430> Launched Extension Host Process.
